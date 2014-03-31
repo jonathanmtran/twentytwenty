@@ -3,7 +3,7 @@ Contributors: cs123
 Tags: images, before-and-after, before and after, comparison, slider, zurb, twentytwenty, twenty twenty
 Requires at least: 3.5.1
 Tested up to: 3.8.1
-Stable tag: 1.0.0
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +35,7 @@ Add two picture to a post or page and surround them with a shortcode to create a
 2. Insert two images into a post, one right after the other.
 
 3. Before the first image, type `[twentytwenty]`. After the second image, type `[/twentytwenty]`. See the second screenshot for an example.
-
+x
 == Frequently Asked Questions ==
 
 = Why aren't my images lining up properly? =
